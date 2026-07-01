@@ -49,13 +49,13 @@ Project ini dibuat sebagai tugas akhir (UAS) Mata Kuliah **Pemrograman Web**.
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/azzhrandr/Koperasi_Gur.git
+git clone https://github.com/azzhrandr/Koperasi_Guru.git
 ```
 
 Masuk ke folder project.
 
 ```bash
-cd NAMA_REPOSITORY
+cd Koperasi_Guru
 ```
 
 ---
